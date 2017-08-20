@@ -1,12 +1,20 @@
 /**
-  ******************************************************************************
-  * @file           : nrf24l01.h
-  * @date           : 11 August 2017
-  * @brief          : This is header file for nrf24l01.c file.
-  * @author         : Burin Sapsiri <burin.coding@gmail.com>
-  *
-  ******************************************************************************
-*/
+ ******************************************************************************
+ * @file           : nrf24l01.h
+ * @date           : 11 August 2017
+ * @brief          : This is header file for nrf24l01.c file.
+ * @author         : Burin Sapsiri <burin.coding@gmail.com>
+ *
+ ******************************************************************************
+ * @attention
+ * Copyright (C) 2017  Burin Sapsiri <burin.coding@gmail.com>
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 3 of the License.
+ *
+ ******************************************************************************
+ */
 
 #ifndef _NRF24L01_H
 #define _NRF24L01_H

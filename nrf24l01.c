@@ -1,12 +1,20 @@
 /**
-  ******************************************************************************
-  * @file           : nrf24l01.c
-  * @date           : 11 August 2017
-  * @brief          : This file implements API driver for NRF24L01 chip.
-  * @author         : Burin Sapsiri <burin.coding@gmail.com>
-  *
-  ******************************************************************************
-*/
+ ******************************************************************************
+ * @file           : nrf24l01.c
+ * @date           : 11 August 2017
+ * @brief          : This file implements API driver for NRF24L01 chip.
+ * @author         : Burin Sapsiri <burin.coding@gmail.com>
+ *
+ ******************************************************************************
+ * @attention
+ * Copyright (C) 2017  Burin Sapsiri <burin.coding@gmail.com>
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 3 of the License.
+ *
+ ******************************************************************************
+ */
 
 #include "nrf24l01.h"
 #include "nrf24l01_defs.h"
